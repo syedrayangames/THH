@@ -1,0 +1,17 @@
+{
+    "description": "portfolio",
+
+    "domain": "is-cool.dev",
+    "subdomain": "syedrayangames",
+
+    "owner": {
+        "repo": "https://syedrayangames.github.io/portfolio",
+        "email": "syedyaseeralirayan@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "https://syedrayangames.github.io/"
+    },
+
+    "proxied": false
+}
